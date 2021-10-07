@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hardik Kakkar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on open source
+- 💞️ I’m looking to collaborate on an open source project
 - 📫 How to reach me ~ @hardikkakkar25@gmail.com
 
 <!---
